@@ -6,3 +6,5 @@ Heute habe ich D1 und E1 gemacht, ich habe ein apar sachen über debugging geler
 Heute habe ich D2 gemacht und Niveau 2 fast abgeschlossen! Ich lernte bisschen über Syntax und einbisschen über Datentypen. Ich hatte fast keine probleme. Ich war heute motivierter als letzte woche!
 
 Heute hab ich I2 gemacht und möchte nächste Woche mit Level 3 durchstarten.
+
+Heute habe ich Level 2 fertig gemacht und starte jetzt mit Level 3 durch! Ich habe einige probleme gehabt bei A3 ich bin immer noch nicht fertig aber bald!
