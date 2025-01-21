@@ -8,3 +8,5 @@ Heute habe ich D2 gemacht und Niveau 2 fast abgeschlossen! Ich lernte bisschen �
 Heute hab ich I2 gemacht und möchte nächste Woche mit Level 3 durchstarten.
 
 Heute habe ich Level 2 fertig gemacht und starte jetzt mit Level 3 durch! Ich habe einige probleme gehabt bei A3 ich bin immer noch nicht fertig aber bald!
+
+Heute habe ich an A3 weitergearbeitet und habe lange nichts gefunden zum das ding zu machen aber dann hatte ich es gefunden und hatte sehr wenige Probleme.
