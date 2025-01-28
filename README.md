@@ -19,5 +19,5 @@ Heute bin ich schon auf Level 2. Ich habe direkt mit der ersten Prüfung gestart
 Heute habe ich mit der Aufgabe I2 gestartet. Ich habe lange dafür gebraucht, weil es etwas neues war, aber nach der Zeit ging es gut. Ich habe das Code review fertig besprochen und dann abgegeben und den Code im Github hochgeladen. Danach bin ich direkt auf die E2. Diese Prüfung ging schnell. Ich konnte sie schnell aabgeben. Ich hatte glaube ich 2 Fehler. Aber das waren einfach Denkfehler. Als ich dann fertig war habe ich mich auf das Level 3 vorbereitet.
 
 # 7. Woche
-Wir sind schon an der zweit letzten Woche angelangt. Ich habe mit der A3 angefangen. Sie ist recht schwer, ich muss so ein Diagramm erstellen mit einer Uml. Ich habe zuerst viel recharchiert, wei was geht und dann mit der Aufgabe gestartet. Mehr konnte ich heute nicht machen.
+Wir sind schon an der zweit letzten Woche angelangt. Ich habe mit der A3 angefangen. Sie ist recht schwer, ich muss so ein Diagramm erstellen mit einer Uml. Ich habe zuerst viel recharchiert, wie was geht und dann mit der Aufgabe gestartet. Mehr konnte ich heute nicht machen.
 
