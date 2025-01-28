@@ -21,3 +21,11 @@ Heute habe ich mit der Aufgabe I2 gestartet. Ich habe lange dafür gebraucht, we
 # 7. Woche
 Wir sind schon an der zweit letzten Woche angelangt. Ich habe mit der A3 angefangen. Sie ist recht schwer, ich muss so ein Diagramm erstellen mit einer Uml. Ich habe zuerst viel recharchiert, wie was geht und dann mit der Aufgabe gestartet. Mehr konnte ich heute nicht machen.
 
+# 8.Woche 
+Und schon sind wir an der letzten Modull stunde angekommen. Heute habe ich die Aufgabe A3 fertig gemacht und im Githup als Screenshot abgegeben. Sonst wollte ich noch mit meinem eigenen Snake Aufgabe anfangen. Ich wurde fertig aber konnte es leider nicht Code-reviewen.
+
+
+# Modull
+
+Das Modull ansich hat mir sehr Spass gemacht. ich habe vieles neues gelernt. Ich habe Java sowie auch das benutzten von IntelliJ gelernt. Es hat mir sehr gefallen und würde gerne nochmals an so einem Modull teilnehmen
+
