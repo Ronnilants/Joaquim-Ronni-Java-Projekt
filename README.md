@@ -8,3 +8,9 @@ In dieser Woche habe ich noch mals die Java-Basiccs angeschaut und danach angefa
 
 # 3.Woche 
 Heute habe ich weiter für die D1 geübt und dann auch mit der Prüfung gestartet. Sie ging viel besser. Ich hatte keine Fehler. Danach habe ich für die I1 Aufgabe gelernt. Ich habe schon das Projekt im IntelliJ erstellt. Da ich aber immer auf VSstudio gearbeitet habe war für mich IntelliJ etwas neues. Also musste ich einbisschen nachafragen, wie alles funktioniert
+
+# 4.Woche 
+Heute habe ich mit I1 gestartet und auch beendet. Ich habe das Code review mit Herr Käser durchgeführ und beendet. Danach habe ich den Code auf mein Githup hochgeladen. Nachdem bin ich dirket rüber auf die E1 und auch genauso mit der gestartet. Auch bei dieser Aufgabe habe ich das Code review mit Herrn Käser gemacht.
+
+ # 5. Woche 
+ Heute bin ich schon auf Level 2. Ich habe direkt mit der ersten Prüfung gestartet. Nähmlich A2. Sie ging ganz okay. Ich habe das meiste verstanden und gut lösen können. Ich hatte leider 2 Fehler aber davon konnte ich gut lernen. Nachdem ich es abgegeben habe bin ich rüber auf die D2. Diese ging genauso gut. Ich hatte davon glaube ich keinen Fehler.
