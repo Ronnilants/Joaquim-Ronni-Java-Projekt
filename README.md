@@ -12,5 +12,12 @@ Heute habe ich weiter für die D1 geübt und dann auch mit der Prüfung gestarte
 # 4.Woche 
 Heute habe ich mit I1 gestartet und auch beendet. Ich habe das Code review mit Herr Käser durchgeführ und beendet. Danach habe ich den Code auf mein Githup hochgeladen. Nachdem bin ich dirket rüber auf die E1 und auch genauso mit der gestartet. Auch bei dieser Aufgabe habe ich das Code review mit Herrn Käser gemacht.
 
- # 5. Woche 
- Heute bin ich schon auf Level 2. Ich habe direkt mit der ersten Prüfung gestartet. Nähmlich A2. Sie ging ganz okay. Ich habe das meiste verstanden und gut lösen können. Ich hatte leider 2 Fehler aber davon konnte ich gut lernen. Nachdem ich es abgegeben habe bin ich rüber auf die D2. Diese ging genauso gut. Ich hatte davon glaube ich keinen Fehler.
+# 5. Woche 
+Heute bin ich schon auf Level 2. Ich habe direkt mit der ersten Prüfung gestartet. Nähmlich A2. Sie ging ganz okay. Ich habe das meiste verstanden und gut lösen können. Ich hatte leider 2 Fehler aber davon konnte ich gut lernen. Nachdem ich es abgegeben habe bin ich rüber auf die D2. Diese ging genauso gut. Ich hatte davon glaube ich keinen Fehler.
+
+# 6. Woche 
+Heute habe ich mit der Aufgabe I2 gestartet. Ich habe lange dafür gebraucht, weil es etwas neues war, aber nach der Zeit ging es gut. Ich habe das Code review fertig besprochen und dann abgegeben und den Code im Github hochgeladen. Danach bin ich direkt auf die E2. Diese Prüfung ging schnell. Ich konnte sie schnell aabgeben. Ich hatte glaube ich 2 Fehler. Aber das waren einfach Denkfehler. Als ich dann fertig war habe ich mich auf das Level 3 vorbereitet.
+
+# 7. Woche
+
+
